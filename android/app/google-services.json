@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "663452264340",
+    "project_id": "cfadb-flash-chatt-app",
+    "storage_bucket": "cfadb-flash-chatt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663452264340:android:007b1ea6326adfaebb1181",
+        "android_client_info": {
+          "package_name": "com.DTFun.FlashChattApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663452264340-jnif217v0doqunbehl75dtbuebp1vd7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSlv5_F32SYYTa37Hag06jggRzKJKPcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663452264340-jnif217v0doqunbehl75dtbuebp1vd7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663452264340-klbc6v0auq2aruq8ob6306v48hgs1ccs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DTFun.FlashChattApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

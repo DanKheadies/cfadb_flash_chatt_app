@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flash_chatt_app">
+    package="com.HolisticGaming.flash_chat">
    <application
         android:label="flash_chatt_app"
         android:icon="@mipmap/ic_launcher">
